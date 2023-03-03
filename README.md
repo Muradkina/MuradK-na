@@ -1,6 +1,10 @@
 
-<img src="https://media.giphy.com/media/5lNUup3uEa2kvA86kO/giphy.gif" aling="right" width="450"height="300">
-<font color="red"><h2>Merhaba, ben Murad.</h2></font>
+<img src="https://media.giphy.com/media/5lNUup3uEa2kvA86kO/giphy.gif" aling="left" width="500" heigt="500">
+
+
+<font color="red">
+
+<h2>Merhaba, ben Murad.</h2></font>
 
 <h3>Java | Node.js Geliştirici</h3>
 <font color="blue">Java ve Node.js ile uygulama geliştirme konusunda uzmanım. Ayrıca, oyun oynamayı ve yeni teknolojiler öğrenmeyi seviyorum.</font>
