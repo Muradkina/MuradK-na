@@ -15,10 +15,10 @@
 <img src=""><a href=""><img src=""><a href=""><img src="">
 --->
 
-[![Muradkina's github stats](https://github-readme-stats.vercel.app/api?username=Muradkina&theme=white-black)](https://github.com/anuraghazra/github-readme-stats)
+[![Muradkina's github stats](https://github-readme-stats.vercel.app/api?username=Muradkina&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Muradkina's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muradkina&theme=white-black)](https://github.com/anuraghazra/github-readme-stats)
+[![Muradkina's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muradkina&theme=white-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tech Stack
