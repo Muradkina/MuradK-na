@@ -15,7 +15,7 @@
 <img src=""><a href=""><img src=""><a href=""><img src="">
 --->
 
-[![Muradkina's github stats](https://github-readme-stats.vercel.app/api?username=Muradkina&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Muradkina's github stats](https://github-readme-stats.vercel.app/api?username=Muradkina&theme=black-blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Muradkina's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muradkina&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
