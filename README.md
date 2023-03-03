@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/1d5U0oFBn8MPmmR5pB/giphy.gif">
+<img src="https://media.giphy.com/media/5lNUup3uEa2kvA86kO/giphy.gif">
 <font color="red"><h2>Merhaba, ben Murad.</h2></font>
 
 <h3>Java | Node.js Geliştirici</h3>
