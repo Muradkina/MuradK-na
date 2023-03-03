@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/5lNUup3uEa2kvA86kO/giphy.gif" aling="left" width="500" heigt="500">
+<img src="https://media.giphy.com/media/5lNUup3uEa2kvA86kO/giphy.gif" aling="left" width="250" heigt="500">
 
 
 <font color="red">
