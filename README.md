@@ -1,5 +1,7 @@
 
-<img src="https://media.giphy.com/media/5lNUup3uEa2kvA86kO/giphy.gif" aling="left" width="250" heigt="500">
+<img src="https://media.giphy.com/media/5lNUup3uEa2kvA86kO/giphy.gif" aling="right" width="250" heigt="150">
+
+<img src="https://media.giphy.com/media/5VB19KjB3OpXy305C5/giphy.gif" aling="left " width="250" height="150">
 
 
 <font color="red">
