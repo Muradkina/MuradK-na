@@ -5,7 +5,11 @@
 <h3>Java | Node.js Geliştirici</h3>
 <font color="blue">Java ve Node.js ile uygulama geliştirme konusunda uzmanım. Ayrıca, oyun oynamayı ve yeni teknolojiler öğrenmeyi seviyorum.</font>
 
+#### Contact
 
+<blockquote>
+ <a href="https://z-p15.www.instagram.com/m.e.e.k77/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"><a href="https://medium.com/folksdev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</blockquote>
 
 <!---
 <img src=""><a href=""><img src=""><a href=""><img src="">
