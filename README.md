@@ -1,13 +1,17 @@
-<img src="https://media.giphy.com/media/5lNUup3uEa2kvA86kO/giphy.gif" aling="right " width="250" height="150">
+<h1 align="center">
+Merhaba, ben Murad.</h1>
 
-<img src="https://media.giphy.com/media/5VB19KjB3OpXy305C5/giphy.gif"  aling="left " width="250" height="150">
+<img src="https://media.giphy.com/media/5lNUup3uEa2kvA86kO/giphy.gif" align="right" width="320" heigt="200">
 
-<font color="red">
+<img src="https://media.giphy.com/media/5VB19KjB3OpXy305C5/giphy.gif" align="right " width="300" height="200">
 
-<h2>Merhaba, ben Murad.</h2></font>
+<div align="center">
+  <p style="color: red;">Bu metin kırmızı renkte ve ortalanmış olarak görünecek</p>
+</div>
 
-<h3>Java | Node.js Geliştirici</h3>
-<font color="blue">Java ve Node.js ile uygulama geliştirmeyi severim. Ayrıca, oyun oynamayı ve yeni teknolojiler öğrenmeyi seviyorum.</font>
+<h3><b style="font-weight: bold;">Java | Node.js Geliştirici</b></h3>
+
+<font color="blue">Java ve Node.js ile uygulama geliştirme konusunda uzmanım. Ayrıca, oyun oynamayı ve yeni teknolojiler öğrenmeyi seviyorum.</font>
 
 #### Contact
 
