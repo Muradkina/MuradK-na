@@ -4,10 +4,11 @@ Merhaba, ben Murad.</h1>
 <img src="https://media.giphy.com/media/5lNUup3uEa2kvA86kO/giphy.gif" align="right" width="320" heigt="200">
 
 <img src="https://media.giphy.com/media/5VB19KjB3OpXy305C5/giphy.gif" align="right " width="300" height="200">
-
+<!---
 <div align="center">
   <p style="color: red;">Bu metin kırmızı renkte ve ortalanmış olarak görünecek</p>
 </div>
+--->
 
 <h3><b style="font-weight: bold;">Java | Node.js Geliştirici</b></h3>
 
