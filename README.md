@@ -1,9 +1,28 @@
+<img src="https://media.giphy.com/media/5lNUup3uEa2kvA86kO/giphy.gif" aling="right " width="250" height="150">
 
-<img src="https://media.giphy.com/media/1d5U0oFBn8MPmmR5pB/giphy.gif">
-<font color="red"><h2>Merhaba, ben Murad.</h2></font>
+<img src="https://media.giphy.com/media/5VB19KjB3OpXy305C5/giphy.gif"  aling="left " width="250" height="150">
+
+<font color="red">
+
+<h2>Merhaba, ben Murad.</h2></font>
 
 <h3>Java | Node.js Geliştirici</h3>
-<font color="blue">Java ve Node.js ile uygulama geliştirme konusunda uzmanım. Ayrıca, oyun oynamayı ve yeni teknolojiler öğrenmeyi seviyorum.</font>
+<font color="blue">Java ve Node.js ile uygulama geliştirmeyi severim. Ayrıca, oyun oynamayı ve yeni teknolojiler öğrenmeyi seviyorum.</font>
+
+#### Contact
+
+<blockquote>
+ <a href="https://z-p15.www.instagram.com/m.e.e.k77/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</blockquote>
+
+<!---
+<img src=""><a href=""><img src=""><a href=""><img src="">
+--->
+
+[![Muradkina's github stats](https://github-readme-stats.vercel.app/api?username=Muradkina&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Muradkina's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muradkina&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tech Stack
@@ -18,6 +37,8 @@
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"> 
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"> 
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=Node&logoColor=white"> 
+
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> 
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> 
 <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"> 
