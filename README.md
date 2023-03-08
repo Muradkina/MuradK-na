@@ -17,7 +17,7 @@ Merhaba, ben Murad.</h1>
 #### Contact
 
 <blockquote>
- <a href="https://https://www.linkedin.com/in/murad-kina-b568ab268/"><img src="https://img.shields.io/badge/Linkedin-%23E4405F.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+ <a href="https://www.linkedin.com/in/murad-kina-b568ab268/"><img src="https://img.shields.io/badge/Linkedin-%23E4405F.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   <a href="https://z-p15.www.instagram.com/m.e.e.k77/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 
 </blockquote>
