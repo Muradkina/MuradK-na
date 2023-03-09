@@ -1,9 +1,9 @@
 <h1 align="center">
 Merhaba, ben Murad.</h1>
 
-<img src="https://media.giphy.com/media/5lNUup3uEa2kvA86kO/giphy.gif" align="right" width="320" heigt="200">
+<img src="https://media.giphy.com/media/5lNUup3uEa2kvA86kO/giphy.gif" align="right" width="300" heigt="220">
 
-<img src="https://media.giphy.com/media/5VB19KjB3OpXy305C5/giphy.gif" align="right " width="280" height="200">
+<img src="https://media.giphy.com/media/5VB19KjB3OpXy305C5/giphy.gif" align="right " width="260" height="180">
 <!---
 <div align="center">
   <p style="color: red;">Bu metin kırmızı renkte ve ortalanmış olarak görünecek</p>
