@@ -12,7 +12,7 @@ Merhaba, ben Murad.</h1>
 
 <h3><b style="font-weight: bold;">Java | Node.js Geliştirici</b></h3>
 
-<font color="blue">Java ve Node.js ile uygulama geliştirme konusunda uzmanım. Ayrıca, oyun oynamayı ve yeni teknolojiler öğrenmeyi seviyorum.</font>
+<font color="blue">Java ve Node.js ile uygulama  web geliştirme . Ayrıca, oyun oynamayı ve yeni teknolojiler öğrenmeyi seviyorum.</font>
 
 #### Contact
 
